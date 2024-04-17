@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-6\\Desktop\\9a\\Family\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EBD9C-D432-4E3C-812A-564D2016E41A}|Person\\Person.csproj|c:\\users\\students-1212-6\\desktop\\9a\\family\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EBD9C-D432-4E3C-812A-564D2016E41A}|Person\\Person.csproj|solutionrelative:person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EBD9C-D432-4E3C-812A-564D2016E41A}|Person\\Person.csproj|c:\\users\\students-1212-6\\desktop\\9a\\family\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EBD9C-D432-4E3C-812A-564D2016E41A}|Person\\Person.csproj|solutionrelative:person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\9a\\Family\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Person.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\9a\\Family\\Person\\Person.cs*",
+              "RelativeToolTip": "Person\\Person.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:49:10.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-6\\Desktop\\9a\\Family\\Person\\Program.cs",
+              "RelativeDocumentMoniker": "Person\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-6\\Desktop\\9a\\Family\\Person\\Program.cs*",
+              "RelativeToolTip": "Person\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:47:58.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

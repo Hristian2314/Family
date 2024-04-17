@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\bin\Debug\net8.0\Person.exe
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\bin\Debug\net8.0\Person.deps.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\bin\Debug\net8.0\Person.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\bin\Debug\net8.0\Person.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\refint\Person.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\Family\Person\obj\Debug\net8.0\ref\Person.dll
